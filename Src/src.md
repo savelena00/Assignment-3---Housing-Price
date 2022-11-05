@@ -9,11 +9,11 @@
 ### Cateogorical Variables:
   * MSZoning: Identifies the general zoning classification of the sale.
 		
-       A	Agriculture
-       C	Commercial
-       FV	Floating Village Residential
-       I	Industrial
-       RH	Residential High Density
+     - A	Agriculture
+     - C	Commercial
+     - FV	Floating Village Residential
+     - I	Industrial
+     - RH	Residential High Density
        RL	Residential Low Density
        RP	Residential Low Density Park 
        RM	Residential Medium Density 
