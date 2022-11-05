@@ -2,12 +2,12 @@
 
 ### Numerical Variables:
   * Sale Price: The property's sale price in dollars. Predictions are based upon this variable.
-### Fireplaces: Number of fireplaces 
-### Year Built: Original construction date
-### Full Bath: Full Bathrooms above grade
+  * Fireplaces: Number of fireplaces 
+  * Year Built: Original construction date
+  * Full Bath: Full Bathrooms above grade
 
 ### Cateogorical Variables:
-###  MSZoning: Identifies the general zoning classification of the sale.
+  * MSZoning: Identifies the general zoning classification of the sale.
 		
        A	Agriculture
        C	Commercial
@@ -18,14 +18,14 @@
        RP	Residential Low Density Park 
        RM	Residential Medium Density 
 
-## LotShape: General shape of property
+  * LotShape: General shape of property
 
        Reg	Regular	
        IR1	Slightly irregular
        IR2	Moderately Irregular
        IR3	Irregular
 
-### SaleType: Type of sale
+  * SaleType: Type of sale
 		
        WD 	Warranty Deed - Conventional
        CWD	Warranty Deed - Cash
@@ -38,7 +38,7 @@
        ConLD	Contract Low Down
        Oth	Other
 
-### Neighborhood: Physical locations within Ames city limits
+  * Neighborhood: Physical locations within Ames city limits
 
        Blmngtn	Bloomington Heights
        Blueste	Bluestem
