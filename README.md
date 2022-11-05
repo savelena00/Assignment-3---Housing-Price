@@ -1,7 +1,4 @@
-# Assignment-3---Housing-Price
-Contains EDA on the Housing Price dataset 
-
-# Assignment3---Titanic Dataset 
+# Assignment3---Housing Price Dataset 
 
 ## This is an Assignment work consisting of basic explanatory data analyses taken from the Kaggle- Titanic database. Within this repository are different analyses files. 
 
