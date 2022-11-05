@@ -10,7 +10,10 @@
   1. Open this repository by clicking on this [link](https://github.com/savelena00/Assignment-3---Housing-Price) or execute this from the terminal/gitbash:
   
   1. Execute Jupyter Notebook from the terminal (Mac) or Gitbash (Windows)
-  2. Clone the repository with the name Assignment-3---Housing-Price. Here is the clone [link](https://github.com/savelena00/Assignment-3---Housing-Price.git) 
+  2. Clone the repository with the name Assignment-3---Housing-Price. Here is the clone link:
+  
+  https://github.com/savelena00/Assignment-3---Housing-Price.git
+  
   3. Pull the file into your local and you are set
 
 ## Dependencies
