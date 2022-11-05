@@ -9,7 +9,7 @@ Contains EDA on the Housing Price dataset
   * Data is taken from Kaggle and can be found in [here](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview)
  
 ## Notebook Installation
-  1. Download this repository in a zip file by clicking on this [link]() or execute this from the terminal/gitbash:
+  1. Open this repository by clicking on this [link](https://github.com/savelena00/Assignment-3---Housing-Price) or execute this from the terminal/gitbash:
   
   1. Execute Jupyter Notebook from the terminal (Mac) or Gitbash (Windows)
   2. Clone the repository with the name Assignment-3---Housing-Price. Here is the clone [link](https://github.com/savelena00/Assignment-3---Housing-Price.git) 
