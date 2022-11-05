@@ -1,7 +1,7 @@
 ## Dictionary
 
 ### Numerical Variables:
-### Sale Price: The property's sale price in dollars. Predictions are based upon this variable.
+### * Sale Price: The property's sale price in dollars. Predictions are based upon this variable.
 ### Fireplaces: Number of fireplaces 
 ### Year Built: Original construction date
 ### Full Bath: Full Bathrooms above grade
