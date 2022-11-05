@@ -1,6 +1,7 @@
-# Assignment3---Housing Price Dataset 
 
-## This is an Assignment work consisting of basic explanatory data analyses taken from the Kaggle- Titanic database. Within this repository are different analyses files. 
+# Assignment3---Housing Price 
+
+## This is an Assignment work consisting of basic explanatory data analyses taken from the Kaggle- House Prices - Advanced Regression Techniques database. Within this repository are different analyses files. 
 
 ## Data Source
   * Data is taken from Kaggle and can be found in [here](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview)
