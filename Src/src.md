@@ -1,12 +1,12 @@
-# Dictionary
+## Dictionary
 
-## Numerical Variables:
-## Sale Price: The property's sale price in dollars. Predictions are based upon this variable.
-## Fireplaces: Number of fireplaces 
-## Year Built: Original construction date
-## Full Bath: Full Bathrooms above grade
+### Numerical Variables:
+### Sale Price: The property's sale price in dollars. Predictions are based upon this variable.
+### Fireplaces: Number of fireplaces 
+### Year Built: Original construction date
+### Full Bath: Full Bathrooms above grade
 
-## Cateogorical Variables:
+### Cateogorical Variables:
 ###  MSZoning: Identifies the general zoning classification of the sale.
 		
        A	Agriculture
